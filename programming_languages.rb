@@ -8,6 +8,5 @@ def reformat_languages(languages)
    new_hash[:erlang] = {:type => "compiled", :style => [:functional]}
    new_hash[:scala] = {:type => "compiled", :style => [:functional]}
    
-
  new_hash
 end
